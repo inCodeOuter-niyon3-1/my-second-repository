@@ -1,0 +1,17 @@
+h1 {
+  color: tomato;
+  text-align: center;
+  border: 1px solid yellow;
+  padding: 10px;
+  margin: 40px;
+}
+h3 {
+  display: inline;
+  color: #b6b6b6;
+}
+p {
+  color: aqua;
+}
+hr {
+  color: yellowgreen;
+}
